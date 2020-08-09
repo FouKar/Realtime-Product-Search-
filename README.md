@@ -7,4 +7,4 @@ For this exercise we used [Algolia](https://www.algolia.com/), to power our real
 ### React skills used in this app
 
 - Using Algolia for real-time search
-- Using 3rd party packages
+
